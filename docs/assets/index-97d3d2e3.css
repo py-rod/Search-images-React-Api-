@@ -1,0 +1,1 @@
+.container-imgs{list-style-type:none;display:grid;gap:30px;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));padding:0}.container-imgs>li>img{width:100%;height:60%;display:block}*{padding:0;margin:0;box-sizing:border-box}main{padding:0 30px}
